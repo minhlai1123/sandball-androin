@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sand_yellow">#F5D061</color>
+    <color name="sand_deep">#C69234</color>
+    <color name="trench_bedrock">#8D5B18</color>
+    <color name="truck_red">#E74C3C</color>
+    <color name="button_green">#2ECC71</color>
+    <color name="primary_navy">#0F172A</color>
+    <color name="star_gold">#F1C40F</color>
+</resources>
